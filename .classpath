@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="LHamerston_40245759/src"/>
+	<classpathentry kind="src" path="LHamerston_40245759/test"/>
+	<classpathentry kind="src" path="S2W5_LHamerston_40245759/src"/>
+	<classpathentry kind="src" path="S2W5_LHamerston_40245759/unitTest"/>
+	<classpathentry kind="src" path="S2W6_LHamerston_40245759/src"/>
+	<classpathentry kind="src" path="S2W6_LHamerston_40245759/test"/>
+	<classpathentry kind="src" path="S2W7_LHamerston_40245759/src"/>
+	<classpathentry kind="src" path="S2W7_LHamerston_40245759/test"/>
+	<classpathentry kind="src" path="S2W9_LHamerston/src"/>
+	<classpathentry kind="output" path="LHamerston_40245759/bin"/>
+</classpath>
